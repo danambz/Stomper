@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55417daf8fce5714a95dd40e5b7ab09d, type: 3}
+  m_Name: speedItem
+  m_EditorClassIdentifier: 
+  itemName: Boots
+  icon: {fileID: 21300000, guid: e4eb80bc710314de0ba0f26cf7c79a6f, type: 3}
+  type: 0
+  description: increase speed by 3 times the speed for 10 second
+  healthRestore: 0
+  speedMultiplier: 3
+  speedDuration: 10
+  jumpMultiplier: 1
+  jumpDuration: 0
+  worldPrefab: {fileID: 6307169056355507076, guid: cf3685ebba3c67540b72d0fea96516f5, type: 3}
