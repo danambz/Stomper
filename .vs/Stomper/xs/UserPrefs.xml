@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/win.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="14" Column="35" />
+      <File FileName="Assets/win.cs" Line="4" Column="1" />
+      <File FileName="Assets/Camera.cs" />
+      <File FileName="Assets/Enemy.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stomper" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7cae06f2-1958-4bbb-831a-90009b26e9c2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
