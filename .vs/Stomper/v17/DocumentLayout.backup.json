@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\assets\\code\\invslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\invslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +14,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|c:\\users\\firef\\onedrive\\desktop\\stomper dana game\\stomper\\assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
     },
     {
       "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\assets\\code\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +28,21 @@
       "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|c:\\users\\firef\\onedrive\\desktop\\stomper dana game\\stomper\\assets\\code\\poweruppickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\poweruppickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|c:\\users\\firef\\onedrive\\desktop\\stomper dana game\\stomper\\assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|c:\\users\\firef\\onedrive\\desktop\\stomper dana game\\stomper\\assets\\code\\invslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\invslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\assets\\code\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
     },
     {
       "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\assets\\code\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,6 +53,13 @@
       "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\inventorytoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
       "AbsoluteMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\assets\\code\\wintrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4103FE0C-2467-20A9-9202-0F2409F3D9F7}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\wintrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,6 +135,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -136,19 +158,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\code\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\code\\AudioManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:25:27.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "InvSlot.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\InvSlot.cs",
               "RelativeDocumentMoniker": "Assets\\code\\InvSlot.cs",
               "ToolTip": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\InvSlot.cs",
               "RelativeToolTip": "Assets\\code\\InvSlot.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAADoAAAAAAAAAAAAUwDIAAAANAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T20:55:33.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 2,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "ItemData.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\code\\ItemData.cs",
@@ -161,20 +211,32 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 1,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Powerup.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\Powerup.cs",
               "RelativeDocumentMoniker": "Assets\\code\\Powerup.cs",
               "ToolTip": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\Powerup.cs",
               "RelativeToolTip": "Assets\\code\\Powerup.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAA2AAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T20:45:12.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 16,
+=======
+              "DocumentIndex": 15,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "WinTrigger.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\WinTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\WinTrigger.cs",
@@ -186,7 +248,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
+=======
+              "DocumentIndex": 16,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy.cs",
@@ -198,7 +264,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 12,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\Menu.cs",
               "RelativeDocumentMoniker": "Assets\\Menu.cs",
@@ -209,7 +279,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 18,
+=======
+              "DocumentIndex": 17,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
@@ -221,7 +295,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 7,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\Inventory.cs",
               "RelativeDocumentMoniker": "Assets\\Inventory.cs",
@@ -232,6 +310,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "InventoryUI.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\InventoryUI.cs",
@@ -259,6 +338,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
+=======
+              "DocumentIndex": 18,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "PowerupPickup.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\PowerupPickup.cs",
               "RelativeDocumentMoniker": "Assets\\PowerupPickup.cs",
@@ -270,7 +352,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 20,
+=======
+              "DocumentIndex": 19,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Player.cs",
@@ -282,7 +368,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 21,
+=======
+              "DocumentIndex": 20,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Powerup.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\Powerup.cs",
               "RelativeDocumentMoniker": "Assets\\Powerup.cs",
@@ -294,7 +384,24 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 4,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\code\\InventoryUI.cs",
+              "ToolTip": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\code\\InventoryUI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:52:52.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "ItemPickup.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\ItemPickup.cs",
               "RelativeDocumentMoniker": "Assets\\code\\ItemPickup.cs",
@@ -306,7 +413,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
+=======
+              "DocumentIndex": 21,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "LeaderboardUI.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\LeaderboardUI.cs",
               "RelativeDocumentMoniker": "Assets\\LeaderboardUI.cs",
@@ -318,7 +429,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
+=======
+              "DocumentIndex": 13,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "WinTrigge.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\WinTrigge.cs",
               "RelativeDocumentMoniker": "Assets\\WinTrigge.cs",
@@ -329,7 +444,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
+=======
+              "DocumentIndex": 22,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameManager.cs",
@@ -341,7 +460,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 24,
+=======
+              "DocumentIndex": 23,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "coin.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\coin.cs",
               "RelativeDocumentMoniker": "Assets\\coin.cs",
@@ -353,7 +476,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 25,
+=======
+              "DocumentIndex": 24,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "LeaderboardManager.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\LeaderboardManager.cs",
               "RelativeDocumentMoniker": "Assets\\LeaderboardManager.cs",
@@ -365,7 +492,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
+=======
+              "DocumentIndex": 14,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "win.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\win.cs",
               "RelativeDocumentMoniker": "Assets\\win.cs",
@@ -376,8 +507,17 @@
               "WhenOpened": "2025-04-20T01:35:24.038Z"
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 9,
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "WinTrigger.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\WinTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\code\\WinTrigger.cs",
@@ -389,7 +529,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 9,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\code\\GameManager.cs",
@@ -401,7 +545,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 6,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "InventoryToggle.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\InventoryToggle.cs",
               "RelativeDocumentMoniker": "Assets\\code\\InventoryToggle.cs",
@@ -413,7 +561,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 11,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\Menu.cs",
               "RelativeDocumentMoniker": "Assets\\code\\Menu.cs",
@@ -425,7 +577,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 10,
+>>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\firef\\OneDrive\\Desktop\\Stomper Dana game\\Stomper\\Assets\\code\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\code\\Player.cs",
