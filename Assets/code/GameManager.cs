@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
 
@@ -8,6 +8,9 @@ public class GameManager : MonoBehaviour
 
     private TextMeshProUGUI coinText;
     private TextMeshProUGUI timerText;
+    private TextMeshProUGUI highScoreText;
+    private int initialHighScore;
+    private bool notifiedNewHigh = false;
 
     [HideInInspector] public int coinsCollected;
     [HideInInspector] public float elapsedTime;
@@ -35,6 +38,13 @@ public class GameManager : MonoBehaviour
         // 1) grab the new UI elements
         coinText = GameObject.Find("Score point")?.GetComponent<TextMeshProUGUI>();
         timerText = GameObject.Find("time")?.GetComponent<TextMeshProUGUI>();
+        highScoreText = GameObject.Find("HighScoreText")?.GetComponent<TextMeshProUGUI>();
+
+        // Grab the starting “best ever” before any coins are collected
+        if (LeaderboardManager.Instance != null)
+            initialHighScore = LeaderboardManager.Instance.GetHighestCoins();
+        else
+            initialHighScore = 0;
 
         // 2) reset counters
         coinsCollected = 0;
@@ -43,6 +53,8 @@ public class GameManager : MonoBehaviour
         // 3) push that to screen
         UpdateCoinUI();
         UpdateTimerUI();
+        UpdateHighScoreUI();
+        notifiedNewHigh = false;
     }
 
     void Update()
@@ -57,6 +69,14 @@ public class GameManager : MonoBehaviour
     {
         coinsCollected += amount;
         UpdateCoinUI();
+        // check new high‐score
+        if (!notifiedNewHigh && coinsCollected >= initialHighScore)
+        {
+            notifiedNewHigh = true;
+            AudioManager.Instance.PlaySFX("newHigh");
+            if (highScoreText != null)
+                highScoreText.text = $"You got the High Score: {initialHighScore}";
+        }
     }
 
     void UpdateCoinUI()
@@ -76,5 +96,11 @@ public class GameManager : MonoBehaviour
         int minutes = (int)(t / 60);
         int seconds = (int)(t % 60);
         return $"{minutes:00}:{seconds:00}";
+    }
+
+    private void UpdateHighScoreUI()
+    {
+        if (highScoreText != null)
+            highScoreText.text = $"High Score: {initialHighScore}";
     }
 }

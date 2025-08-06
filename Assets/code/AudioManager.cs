@@ -22,6 +22,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip damageSfx;
     public AudioClip stompSfx;
     public AudioClip winSfx;
+    public AudioClip newHighSfx;
 
     AudioSource musicSource;
     AudioSource sfxSource;
@@ -70,6 +71,7 @@ public class AudioManager : MonoBehaviour
             "damage" => damageSfx,
             "stomp" => stompSfx,
             "win" => winSfx,
+            "newHigh" => newHighSfx,
             _ => null
         };
         if (clip != null) sfxSource.PlayOneShot(clip);

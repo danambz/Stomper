@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ﻿using UnityEngine;
-=======
 using UnityEngine;
->>>>>>> b1c1e8a5879243eeed8ea5e039e874adacfccfcc
 using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;

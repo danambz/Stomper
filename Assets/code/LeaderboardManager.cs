@@ -121,4 +121,14 @@ public class LeaderboardManager : MonoBehaviour
         PlayerPrefs.SetString(PrefsKey, json);
         PlayerPrefs.Save();
     }
+
+
+    /// <summary>
+    /// Returns the highest coins score on the board (or zero if empty).
+    /// </summary>
+    public int GetHighestCoins()
+    {
+        if (entries.Count == 0) return 0;
+        return entries.Max(e => e.coins);
+    }
 }

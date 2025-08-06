@@ -14,6 +14,8 @@ ScriptsOnlyBuild:
     - LeaderboardManager
     - LeaderboardUI
     - Menu
+    - NameEntryUI
+    - OptionsMenu
     - Player
     - Powerup
     - WinTrigger
@@ -37,6 +39,7 @@ ScriptsOnlyBuild:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
     - TMPro.TMP_FontAsset
+    - TMPro.TMP_InputField
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
@@ -60,9 +63,12 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.GridLayoutGroup
     - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.Mask
+    - UnityEngine.UI.RectMask2D
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Slider
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
     Assets/Scenes/MainMenu.unity:
@@ -89,27 +95,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1480}
     - Class: 114
-      Script: {instanceID: 1482}
+      Script: {instanceID: 1566}
     - Class: 114
-      Script: {instanceID: 1536}
+      Script: {instanceID: 1674}
     - Class: 114
-      Script: {instanceID: 1846}
+      Script: {instanceID: 1726}
     - Class: 114
-      Script: {instanceID: 2222}
+      Script: {instanceID: 1842}
     - Class: 114
-      Script: {instanceID: 2646}
+      Script: {instanceID: 2218}
     - Class: 114
-      Script: {instanceID: 2806}
+      Script: {instanceID: 2642}
     - Class: 114
-      Script: {instanceID: 2852}
+      Script: {instanceID: 2804}
     - Class: 114
-      Script: {instanceID: 3022}
+      Script: {instanceID: 2850}
     - Class: 114
-      Script: {instanceID: 3202}
+      Script: {instanceID: 3020}
     - Class: 114
-      Script: {instanceID: 3272}
+      Script: {instanceID: 3200}
     - Class: 114
-      Script: {instanceID: 3282}
+      Script: {instanceID: 3270}
+    - Class: 114
+      Script: {instanceID: 3280}
+    - Class: 114
+      Script: {instanceID: 3382}
     - Class: 114
       Script: {instanceID: 3608}
     - Class: 114
@@ -123,11 +133,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4582}
     - Class: 114
+      Script: {instanceID: 4688}
+    - Class: 114
       Script: {instanceID: 4716}
     - Class: 114
-      Script: {instanceID: 5078}
+      Script: {instanceID: 4754}
     - Class: 114
-      Script: {instanceID: 5092}
+      Script: {instanceID: 5080}
+    - Class: 114
+      Script: {instanceID: 5094}
+    - Class: 114
+      Script: {instanceID: 5566}
+    - Class: 114
+      Script: {instanceID: 30690}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -143,6 +161,12 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
       Script: {instanceID: 0}
     Assets/Scenes/level-1.unity:
     - Class: 1
@@ -178,33 +202,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1480}
     - Class: 114
-      Script: {instanceID: 1482}
+      Script: {instanceID: 1566}
     - Class: 114
-      Script: {instanceID: 1536}
+      Script: {instanceID: 1674}
     - Class: 114
-      Script: {instanceID: 1736}
+      Script: {instanceID: 1732}
     - Class: 114
-      Script: {instanceID: 1752}
+      Script: {instanceID: 1748}
     - Class: 114
-      Script: {instanceID: 1846}
+      Script: {instanceID: 1842}
     - Class: 114
-      Script: {instanceID: 2270}
+      Script: {instanceID: 2266}
     - Class: 114
-      Script: {instanceID: 2646}
+      Script: {instanceID: 2642}
     - Class: 114
-      Script: {instanceID: 2806}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 2852}
+      Script: {instanceID: 2804}
     - Class: 114
-      Script: {instanceID: 3022}
+      Script: {instanceID: 2850}
     - Class: 114
-      Script: {instanceID: 3030}
+      Script: {instanceID: 3020}
     - Class: 114
-      Script: {instanceID: 3060}
+      Script: {instanceID: 3028}
     - Class: 114
-      Script: {instanceID: 3092}
+      Script: {instanceID: 3058}
     - Class: 114
-      Script: {instanceID: 3272}
+      Script: {instanceID: 3090}
+    - Class: 114
+      Script: {instanceID: 3270}
+    - Class: 114
+      Script: {instanceID: 3382}
     - Class: 114
       Script: {instanceID: 3424}
     - Class: 114
@@ -216,11 +244,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4360}
     - Class: 114
+      Script: {instanceID: 4688}
+    - Class: 114
       Script: {instanceID: 4710}
     - Class: 114
-      Script: {instanceID: 5528}
+      Script: {instanceID: 5530}
     - Class: 114
-      Script: {instanceID: 17458}
+      Script: {instanceID: 5566}
+    - Class: 114
+      Script: {instanceID: 30690}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -242,28 +274,16 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: 7ab0e790220bdca831fdd886b339039d
+      Hash: a6e561615949734e9f12f9b61661f43e
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
-    className: GridLayoutGroup
-  - hash:
-      serializedVersion: 2
-      Hash: 69415240821be7986b27e72bf9609a30
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Button
+    className: Image
   - hash:
       serializedVersion: 2
       Hash: 5ab533713adae59372fb3e10a585c186
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AnimationPlayableAsset
-  - hash:
-      serializedVersion: 2
-      Hash: a6e561615949734e9f12f9b61661f43e
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Image
   - hash:
       serializedVersion: 2
       Hash: 77aaaaa51f7a8d8ff333a879741e47d2
@@ -404,6 +424,12 @@ ScriptsOnlyBuild:
     className: CanvasScaler
   - hash:
       serializedVersion: 2
+      Hash: cf2ddf78337e7add134679afb72316ba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InvSlot
+  - hash:
+      serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -542,6 +568,12 @@ ScriptsOnlyBuild:
     className: ToggleGroup
   - hash:
       serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
       Hash: 349d08daa6108b9a28f8c38fd40ce96f
     assemblyName: Unity.2D.SpriteShape.Runtime.dll
     namespaceName: UnityEngine.U2D
@@ -584,7 +616,7 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: a4b3540f5333096f869cd38adb105613
+      Hash: 8f7c1f7b0fb4ceb6087720f03ed78529
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AudioManager
@@ -644,7 +676,7 @@ ScriptsOnlyBuild:
     className: AudioPlayableAsset
   - hash:
       serializedVersion: 2
-      Hash: c72a046208a1b32f8b2e9c933ee77778
+      Hash: a303dc17d18c36692bbdf1281429b9d0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Menu
@@ -680,7 +712,7 @@ ScriptsOnlyBuild:
     className: ActivationTrack
   - hash:
       serializedVersion: 2
-      Hash: 83bb9ebad27950b30ad44a9d54723ed4
+      Hash: f8e4649d99f1da3326a46435eddbd127
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: WinTrigger
@@ -776,6 +808,12 @@ ScriptsOnlyBuild:
     className: TMP_Settings
   - hash:
       serializedVersion: 2
+      Hash: 3be87075e6e8c12b0937c8d577b4025c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OptionsMenu
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.2D.Animation.Runtime.dll
     namespaceName: UnityEngine.U2D.Animation
@@ -842,6 +880,12 @@ ScriptsOnlyBuild:
     className: Powerup
   - hash:
       serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
       Hash: abf1930d8126d0b2e00e9449129a0190
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -854,12 +898,12 @@ ScriptsOnlyBuild:
     className: FabrikSolver2D
   - hash:
       serializedVersion: 2
-      Hash: cf2ddf78337e7add134679afb72316ba
+      Hash: 60175508778ef04436d33ae4a32313ca
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: InvSlot
+    className: NameEntryUI
   platform: 19
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/level-1.unity
-  playerPath: C:/Users/firef/OneDrive/Desktop/Stomper Dana game/Stomper.exe
+  playerPath: D:/Game/Stomper/win/Stomper.exe
